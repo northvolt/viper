@@ -1,4 +1,4 @@
-module github.com/spf13/viper
+module github.com/northvolt/viper
 
 go 1.12
 
